@@ -1,3 +1,2 @@
-layout: none
 include: [".well-known"]
 permalink: .well-known/brave-rewards-verification.txt
