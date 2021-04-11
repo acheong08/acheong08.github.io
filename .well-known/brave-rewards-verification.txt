@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: duti.me
+Token: 7ae2b9a502ae5530ec685bee221cbe1a88e1b87223629d719fba3fe1cec4327f
