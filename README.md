@@ -1,6 +1,6 @@
 ## Welcome to Github Pages
 
-You can view my site at https://duti.me/
+You can view my site at https://acheong08.github.io/
 
 # Contact
 
